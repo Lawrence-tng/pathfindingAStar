@@ -15,3 +15,4 @@ Once UI is displayed:
 
 5. Press C to clear board
 
+![demo](https://github.com/Lawrence-tng/pathfindingAStar/blob/main/ezgif.com-gif-maker.gif)
